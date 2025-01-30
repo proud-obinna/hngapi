@@ -14,5 +14,5 @@ It also includes **CORS handling**, allowing requests from any domain.
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/public-api.git
-cd public-api
+git clone https://github.com/proud-obinna/hngapi.git
+cd hngapi
